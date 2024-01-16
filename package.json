@@ -1,0 +1,30 @@
+{
+  "name": "@shko.online/overridewebpackconfig",
+  "version": "0.1.0",
+  "description": "This is a Webpack plugin that allows overriding the Webpack config for PCF components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shko-Online/OverrideWebpackConfig.git"
+  },
+  "keywords": [
+    "webpack",
+    "pcf",
+    "power-platform"
+  ],
+  "author": "Shko Online <sales@shko.online>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Shko-Online/OverrideWebpackConfig/issues"
+  },
+  "homepage": "https://github.com/Shko-Online/OverrideWebpackConfig#readme",
+  "peerDependencies": {
+    "webpack": "5.x"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
